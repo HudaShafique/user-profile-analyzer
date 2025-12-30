@@ -7,7 +7,7 @@ height = float(input("Enter your height (in feet) : "))
 print("\n--- Profile Summary ---")
 print("Name:", name)
 
-if age < 18:
+if (age < 18):
     print("Status: Minor")
 else:
     print("Status: Adult")
