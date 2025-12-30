@@ -12,7 +12,7 @@ if (age < 18):
 else:
     print("Status: Adult")
 
-if height >= 5.3:
+if (height >= 5.3):
     print("Height Category: Tall")
 else:
     print("Height Category: Short")
