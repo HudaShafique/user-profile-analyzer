@@ -1,7 +1,7 @@
 # User Profile Analyzer
 
 name = input("Enter your name : ")
-age = int(input("Enter your age: "))
+age = int(input("Enter your age : "))
 height = float(input("Enter your height (in feet): "))
 
 print("\n--- Profile Summary ---")
