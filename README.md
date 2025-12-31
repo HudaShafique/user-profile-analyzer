@@ -9,10 +9,6 @@ This is a beginner Python project that takes user input and analyzes basic profi
 - Type casting (int, float)
 - Conditional statements (if-else)
 
-## How to Run
-1. Make sure Python is installed
-2. Run the program using:
-
-
 ## Purpose
 This project was created to practice Python fundamentals as part of my journey toward Machine Learning and AI.
+
